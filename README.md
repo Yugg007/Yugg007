@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Shreyas Londhe | ![alt text](https://github.com/Yugg007/Yugg007/blob/main/linkedin.svg)
+Shreyas Londhe | <img src="https://github.com/Yugg007/Yugg007/blob/main/linkedin.svg" width="200" height="200" />
+
 
 
 Hi, I'm Shreyas Londhe, a passionate self-taught frontend stack web developer and a freelance software engineer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
