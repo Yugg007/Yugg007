@@ -1,6 +1,19 @@
 ### Hi there 👋
 
-Shreyas Londhe | <img src="https://github.com/Yugg007/Yugg007/blob/main/linkedin.svg" width="20" height="20" />
+Yogendra Jhala
+<p>
+    <span>
+        <a href="https://www.linkedin.com/in/yogendra-jhala-253988200/">
+            <img src="https://github.com/Yugg007/Yugg007/blob/main/linkedin.svg" width="20" height="20" />
+        </a>
+    </span>
+    <span>
+        <a href="https://yugg007.github.io/MY-CV/">
+            <img src="https://github.com/Yugg007/Yugg007/blob/main/portfolio.jpeg" width="20" height="20" />
+        </a>
+    </span>
+</p>
+
 
 
 
