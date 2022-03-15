@@ -9,9 +9,6 @@ Yogendra Jhala
     </span>
     <span>
         <a href="https://yugg007.github.io/MY-CV/">
-            <img src="https://github.com/Yugg007/Yugg007/blob/main/portfolio.jpeg" width="20" height="20" />
-        </a>
-        <a href="https://yugg007.github.io/MY-CV/">
             <span>Portfolio</span>    
         </a>
     </span>
@@ -20,13 +17,24 @@ Yogendra Jhala
 
 
 
-Hi, I'm Shreyas Londhe, a passionate self-taught frontend stack web developer and a freelance software engineer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Yogendra Jhala, a passionate self-taught full stack web developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an Open-source and Blockchain enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through Open-source.
 
-💼 Any freelance work? do reach, email :)
+💼 Any freelance work? do reach,     
+<span>
+    <a href="mailto:yogendrajhala650@gmail.com">Send Email</a>
+</span> 
+:)
+
 💬 Ask me about anything, I am happy to help;
+
 Languages and Tools:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
     
 
