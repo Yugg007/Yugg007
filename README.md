@@ -11,6 +11,9 @@ Yogendra Jhala
         <a href="https://yugg007.github.io/MY-CV/">
             <img src="https://github.com/Yugg007/Yugg007/blob/main/portfolio.jpeg" width="20" height="20" />
         </a>
+        <a href="https://yugg007.github.io/MY-CV/">
+            <span>Portfolio</span>    
+        </a>
     </span>
 </p>
 
