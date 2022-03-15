@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Shreyas Londhe | <img src="https://github.com/Yugg007/Yugg007/blob/main/linkedin.svg" width="200" height="200" />
+Shreyas Londhe | <img src="https://github.com/Yugg007/Yugg007/blob/main/linkedin.svg" width="20" height="20" />
 
 
 
