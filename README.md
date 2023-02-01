@@ -1,25 +1,17 @@
-### Hi there 👋
+### Yogendra Jhala
 
-Yogendra Jhala
-<p>
-    <span>
-        <a href="https://www.linkedin.com/in/yogendra-jhala-253988200/">
-            <img src="https://github.com/Yugg007/Yugg007/blob/main/linkedin.svg" width="20" height="20" />
-        </a>
-    </span>
-    <span>
-        <a href="https://yugg007.github.io/MY-CV/">
-            <span>Portfolio</span>    
-        </a>
-    </span>
-</p>
-
-
-
-
-Hi, I'm Yogendra Jhala, a passionate self-taught full stack web developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hello👋🏻, I'm Yogendra Jhala, a passionate self-taught full stack web developer from India, who is interested in Software Development, Developer Relations and Product Management. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an Open-source and Blockchain enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through Open-source.
+
+Currently, I'm working as a Backend developer Intern and internship experiences to work with industry experts in domains : **Web application development, Back-End Development, FULL Stack Development, WEB3**. I have worked on projects that provides a scalable, performant, consistent and rich experience to users. I primarily deal with technologies like ⚡ **C++, REACTJS , NODEJS, EXPRESS, JAVASCRIPT**. I have strong knowledge in **Data structures and algorithms using C++, Computer networks, operating systems, DBMS , System Design**. 
+
+- 🔭 I’m currently working on Fullstack Web Development, MERN Stack & NodeJS Development.
+- 👯 I’m looking to collaborate with Fullstack Web Developers.
+- 🤔 I’m always ready for Open source Contribution.
+- 💬 Ask me about Fullstack web Development.
+- 💬 Possess good knowledge in Data Structures and Algorithms, Computer Networks, Operating systems, DBMS.
+- reach out to me on yogendrajhala650@gmail.com.
 
 💼 Any freelance work? do reach,     
 <span>
@@ -29,12 +21,51 @@ I am also an Open-source and Blockchain enthusiast. I learned a lot from the ope
 
 💬 Ask me about anything, I am happy to help;
 
-Languages and Tools:<br>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+Languages and Tools🛠:
+<br/>
+<code>C++</code>
+<code>MongoDB</code>
+<code>HTML</code>
+<code>CSS</code>
+<code>JavaScript</code>
+<code>NodeJS</code>
+<code>Github</code>
+<code>Postman</code>
+<code>Bootstrap</code>
+<code>Python</code>
+<code>MySql</code>
+<code>Authorization</code>
+
+Connect with me🤝: 
+<br/>
+  
+
+<div>
+    <span>
+        <a href="https://github.com/Yugg007">
+          <img align="left" alt="Yugg007's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+        </a>
+    </span>
+    <span>
+        <a href="https://www.linkedin.com/in/yogendra-jhala-710333214">
+          <img align="left" alt="Yogendra's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+        </a>
+    </span>
+     <span>
+        <a href="https://leetcode.com/yugg_007/">
+          <img align="left" alt="leetcode" width="22px" src="https://tse2.mm.bing.net/th?id=OIP.5sfi252DgFWnuwUNHhwlXwAAAA&pid=Api&P=0" />
+        </a>
+    </span>
+
+</div>
+
+<br/>
+
+</details>
+  
+### Show ❤️ by 🌟 my [repositories](https://github.com/Yugg007?tab=repositories)!
+
+</div>
 
     
 
