@@ -6,6 +6,8 @@ I am also an Open-source and Blockchain enthusiast. I learned a lot from the ope
 
 Currently, I'm working as a Backend developer Intern and internship experiences to work with industry experts in domains : **Web application development, Back-End Development, FULL Stack Development, WEB3**. I have worked on projects that provides a scalable, performant, consistent and rich experience to users. I primarily deal with technologies like ⚡ **C++, REACTJS , NODEJS, EXPRESS, JAVASCRIPT**. I have strong knowledge in **Data structures and algorithms using C++, Computer networks, operating systems, DBMS , System Design**. 
 
+<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 - 🔭 I’m currently working on Fullstack Web Development, MERN Stack & NodeJS Development.
 - 👯 I’m looking to collaborate with Fullstack Web Developers.
 - 🤔 I’m always ready for Open source Contribution.
@@ -13,15 +15,10 @@ Currently, I'm working as a Backend developer Intern and internship experiences 
 - 💬 Possess good knowledge in Data Structures and Algorithms, Computer Networks, Operating systems, DBMS.
 - 🔭 Reach out to me on yogendrajhala650@gmail.com.
 
-<br/>
-<br/>
 
 💼 Any freelance work? do reach,<span><a href="mailto:yogendrajhala650@gmail.com">Send Email</a></span>:)
 
 💬 Ask me about anything, I am happy to help;
-
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 <br/>
 
