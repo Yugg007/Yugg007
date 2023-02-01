@@ -11,15 +11,19 @@ Currently, I'm working as a Backend developer Intern and internship experiences 
 - 🤔 I’m always ready for Open source Contribution.
 - 💬 Ask me about Fullstack web Development.
 - 💬 Possess good knowledge in Data Structures and Algorithms, Computer Networks, Operating systems, DBMS.
-- reach out to me on yogendrajhala650@gmail.com.
+- 🔭 Reach out to me on yogendrajhala650@gmail.com.
 
-💼 Any freelance work? do reach,     
-<span>
-    <a href="mailto:yogendrajhala650@gmail.com">Send Email</a>
-</span> 
-:)
+<br/>
+<br/>
+
+💼 Any freelance work? do reach,<span><a href="mailto:yogendrajhala650@gmail.com">Send Email</a></span>:)
 
 💬 Ask me about anything, I am happy to help;
+
+<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
+<br/>
 
 Languages and Tools🛠:
 <br/>
