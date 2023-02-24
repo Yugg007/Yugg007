@@ -24,7 +24,7 @@ Currently, I'm working as a Backend developer Intern and internship experiences 
 
 Languages and Tools🛠:
 <br/>
-<code>C++</code
+<code>C++</code>
 <code>Blockchain</code>
 <code>Solidity</code>
 <code>Web3</code>
