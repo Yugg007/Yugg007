@@ -1,6 +1,6 @@
 ### Yogendra Jhala
 
-Hello👋🏻, I'm Yogendra Jhala, a passionate self-taught full stack web developer from India, who is interested in Software Development, Developer Relations and Product Management. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hello👋🏻, I'm Yogendra Jhala, a passionate self-taught full stack web developer from India, who is interested in Software Development, Blockchain Developer, Developer Relations and Product Management. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an Open-source and Blockchain enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through Open-source.
 
