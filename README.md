@@ -1,10 +1,8 @@
 ### Yogendra Jhala
 
-Hello👋🏻, I'm Yogendra Jhala, a passionate self-taught full stack web developer from India, who is interested in Software Development, Blockchain Developer, Developer Relations and Product Management. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hello👋🏻, I'm Yogendra Jhala, a passionate self-taught full stack web developer from India, who is interested in Software Development, Blockchain Developer and Open-Source Contribution. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-I am also an Open-source and Blockchain enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through Open-source.
-
-Currently, I'm working as a Backend developer Intern and internship experiences to work with industry experts in domains : **Web application development, Back-End Development, FULL Stack Development, WEB3**. I have worked on projects that provides a scalable, performant, consistent and rich experience to users. I primarily deal with technologies like ⚡ **C++, REACTJS , NODEJS, EXPRESS, JAVASCRIPT**. I have strong knowledge in **Data structures and algorithms using C++, Computer networks, operating systems, DBMS , System Design**. 
+Currently, I am in my final year, pursuing a BTech from NIT Trichy, I have internship experience working with industry experts in domains: **Web application development, Back-End Development, FULL Stack Development, WEB3**. I have worked on projects that provide a scalable, performant, consistent and rich experience to users. I primarily deal with technologies like ⚡ **C++, REACTJS , NODEJS, EXPRESS, JAVASCRIPT**. I have strong knowledge in **Data structures and algorithms using C++, Computer networks, operating systems, DBMS, System Design**.
 
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
