@@ -14,7 +14,7 @@
   <br />
 
   <p align="center">
-    🚀 <b>Software Engineer</b> with a passion for architecting high-scalability distributed systems and optimizing legacy monoliths. I specialize in the <b>Java/Spring Boot</b> ecosystem, with a proven track record of reducing code volume by <b>96%</b> and query latency by <b>99.7%</b> in enterprise environments. From contributing to <b>Google Summer of Code</b> on blockchain governance to building real-time microservices using <b>Kafka and Protobuf</b>, I thrive at the intersection of performance and clean code.
+    <b>Software Engineer</b> with a passion for architecting high-scalability distributed systems and optimizing legacy monoliths. I specialize in the <b>Java/Spring Boot</b> ecosystem, with a proven track record of reducing code volume by <b>96%</b> and query latency by <b>99.7%</b> in enterprise environments. From contributing to <b>Google Summer of Code</b> on blockchain governance to building real-time microservices using <b>Kafka and Protobuf</b>, I thrive at the intersection of performance and clean code.
   </p>
 
   <p style="width: 85%">
